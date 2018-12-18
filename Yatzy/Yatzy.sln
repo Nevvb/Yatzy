@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Yatzy", "Yatzy\Yatzy.pyproj", "{7D77CC0D-55EC-478C-9BE8-F7BDEBFF9DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D77CC0D-55EC-478C-9BE8-F7BDEBFF9DC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D77CC0D-55EC-478C-9BE8-F7BDEBFF9DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C46CF13-2F3B-450C-95F9-23EC5BA57AF6}
+	EndGlobalSection
+EndGlobal
